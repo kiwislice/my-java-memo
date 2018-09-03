@@ -1,0 +1,15 @@
+*.class
+*.settings
+*.project
+*.classpath
+.DS_Store
+*.tmp
+*.bak
+*.jar
+target/*
+
+
+# 編出來的jar視為例外
+!target/*.jar
+
+
